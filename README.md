@@ -25,14 +25,14 @@
       </ul>
     </li>
     <li><a href="#features">Features</a></li>
+    <li><a href="#usage">Usage</a></li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#contributing">Contributing</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -67,10 +67,19 @@ A gallery app which allows the user to navigate through an image folder seamless
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- USAGE -->
+## Usage
 
-This is an example of how you may give instructions on setting up the application.
+Provide instructions on how to download the latest release, install/extract it, run it, etc.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+This is an example of how you may give instructions on setting up the project locally and start contributing.
 
 ### Prerequisites
 
@@ -84,19 +93,10 @@ This is an example of how you may give instructions on setting up the applicatio
 
 
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Insert instructions on how to contribute here.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Insert any acknowledgements here.
+* [Img Shields](https://shields.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
